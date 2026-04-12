@@ -1,80 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sai Gaddam</h1>
-<h3 align="center">🚀 Machine Learning Engineer | Full Stack Developer</h3>
-
----
-
-## 👨‍💻 About Me:
-I am a Machine Learning Engineer specializing in NLP and Deep Learning.  
-I build real-world AI systems like emotion detection, disease prediction, and healthcare applications.
-
----
-
-## 🌐 Socials:
-![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-
----
-
-## 💻 Tech Stack:
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### ⚙️ Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-E34F26?style=for-the-badge&logo=pytorch&logoColor=white)
-![React](https://img.shields.io/badge/react-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-
----
-
-### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Stats:
+<h1 align="center">Sai Gaddam</h1>
+<p align="center">
+  <b>Machine Learning Engineer • AI Developer • Full Stack Developer</b>
+</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sai1650&theme=tokyonight&show_icons=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sai1650&theme=tokyonight" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Multimodal+AI+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+Real+World+AI+Systems" />
 </p>
 
 ---
 
-## 📈 Contributions:
+## 🧠 About Me
+I build intelligent systems focused on **Multimodal AI (Text + Audio + Video)** and healthcare applications.  
+Strong in **Deep Learning, NLP, and Full Stack Development**.
+
+---
+
+## 🚀 Featured Work
+- 🧠 Multimodal Emotion Detection (BERT + Attention + Video)
+- 😔 Depression Prediction (91% Accuracy)
+- 👁️ Diabetic Retinopathy Detection
+- 🫁 Lung Disease Classification
+- 🏥 Smart Medical Store (Full Stack)
+
+---
+
+## ⚡ Tech Stack
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai1650&theme=tokyo-night" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,react,nodejs,mongodb,linux,git" />
 </p>
 
 ---
 
-## 🏆 Achievements:
+## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sai1650&theme=onedark" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sai1650&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sai1650&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Projects:
-- 🧠 Multimodal Emotion Detection  
-- 👁️ Diabetic Retinopathy Detection  
-- 😔 Depression Prediction (91% Accuracy)  
-- 🫁 Lung Disease Classification  
-- 🏥 Medical Store Full Stack App  
+## 📈 Activity Graph
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai1650&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact:
-```diff
-+ I build AI systems 🚀
-+ I solve real-world problems 🌍
-- I don't give up ❌
+## 🌐 Connect
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-grey?style=flat&logo=gmail"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Building intelligent systems, not just code."</i>
+</p>
