@@ -1,78 +1,18 @@
-<h1 align="center">Sai Gaddam</h1>
+# 💫 About Me:
+## 🧠 About Me<br><br>🚀 AI Engineer focused on building real-world intelligent systems  <br>🧠 Specialized in **Multimodal AI (Text + Audio + Video)**  <br>💡 Strong in **Deep Learning, NLP, and Computer Vision**  <br>⚙️ Experienced in developing **end-to-end AI applications**  <br>🌍 Passionate about using AI in **healthcare and human-centered solutions**<br><br>🔥 I don’t just build models — I build impactful products.
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Multimodal+AI+Developer;Deep+Learning+%7C+NLP+%7C+CV;Building+Real+World+AI+Systems🚀" />
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sai-gaddam-8095b12a1/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sai Gaddam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gaddamsai7989@gmail.com) 
 
----
-
-## 🧠 About Me
-🚀 Passionate about building **AI systems that solve real-world problems**  
-🧠 Specialized in **Multimodal AI (Text + Audio + Video)**  
-💡 Strong in **Deep Learning, NLP, Computer Vision & Full Stack**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sai1650&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sai1650&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sai1650&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sai1650&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-<div align="center">
-
-| Project | Description |
-|--------|------------|
-| 🧠 Multimodal Emotion Detection | BERT + Attention + Video Fusion |
-| 😔 Depression Prediction | 91% Accuracy ML Model |
-| 👁️ Diabetic Retinopathy | Medical Image Classification |
-| 🫁 Lung Disease Detection | Deep Learning Healthcare |
-| 🏥 Medical Store App | Full Stack Web App |
-
-</div>
-
----
-
-## ⚡ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,react,nodejs,mongodb,linux,git&perline=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sai1650&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=sai1650&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sai1650&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sai1650&theme=algolia&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
-</p>
-
-<p align="center">
-  <i>⚡ Building intelligent systems, not just code ⚡</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
