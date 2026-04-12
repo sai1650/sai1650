@@ -1,32 +1,40 @@
 <h1 align="center">Sai Gaddam</h1>
+
 <p align="center">
-  <b>Machine Learning Engineer • AI Developer • Full Stack Developer</b>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Engineer;Multimodal+AI+Developer;Deep+Learning+%7C+NLP+%7C+CV;Building+Real+World+AI+Systems🚀" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&lines=Multimodal+AI+Engineer;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Building+Real+World+AI+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 </p>
 
 ---
 
 ## 🧠 About Me
-I build intelligent systems focused on **Multimodal AI (Text + Audio + Video)** and healthcare applications.  
-Strong in **Deep Learning, NLP, and Full Stack Development**.
+🚀 Passionate about building **AI systems that solve real-world problems**  
+🧠 Specialized in **Multimodal AI (Text + Audio + Video)**  
+💡 Strong in **Deep Learning, NLP, Computer Vision & Full Stack**
 
 ---
 
-## 🚀 Featured Work
-- 🧠 Multimodal Emotion Detection (BERT + Attention + Video)
-- 😔 Depression Prediction (91% Accuracy)
-- 👁️ Diabetic Retinopathy Detection
-- 🫁 Lung Disease Classification
-- 🏥 Smart Medical Store (Full Stack)
+## 🚀 Featured Projects
+<div align="center">
+
+| Project | Description |
+|--------|------------|
+| 🧠 Multimodal Emotion Detection | BERT + Attention + Video Fusion |
+| 😔 Depression Prediction | 91% Accuracy ML Model |
+| 👁️ Diabetic Retinopathy | Medical Image Classification |
+| 🫁 Lung Disease Detection | Deep Learning Healthcare |
+| 🏥 Medical Store App | Full Stack Web App |
+
+</div>
 
 ---
 
 ## ⚡ Tech Stack
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,react,nodejs,mongodb,linux,git" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,js,react,nodejs,mongodb,linux,git&perline=6" />
 </p>
 
 ---
@@ -39,21 +47,32 @@ Strong in **Deep Learning, NLP, and Full Stack Development**.
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sai1650&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect
+## 🏆 Achievements
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-grey?style=flat&logo=gmail"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=sai1650&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Building intelligent systems, not just code."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer"/>
+</p>
+
+<p align="center">
+  <i>⚡ Building intelligent systems, not just code ⚡</i>
 </p>
