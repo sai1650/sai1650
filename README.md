@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🧠 About Me<br><br>🚀 AI Engineer focused on building real-world intelligent systems  <br>🧠 Specialized in **Multimodal AI (Text + Audio + Video)**  <br>💡 Strong in **Deep Learning, NLP, and Computer Vision**  <br>⚙️ Experienced in developing **end-to-end AI applications**  <br>🌍 Passionate about using AI in **healthcare and human-centered solutions**<br><br>🔥 I don’t just build models — I build impactful products.
+## 🧠 About Me<br><br>🚀 Ai engineer focused on building real-world intelligent systems  <br>🧠 Specialized in **Multimodal AI (Text + Audio + Video)**  <br>💡 Strong in **Deep Learning, NLP, and Computer Vision**  <br>⚙️ Experienced in developing **end-to-end AI applications**  <br>🌍 Passionate about using AI in **healthcare and human-centered solutions**<br><br>🔥 I don’t just build models — I build impactful products.
 
 
 ## 🌐 Socials:
